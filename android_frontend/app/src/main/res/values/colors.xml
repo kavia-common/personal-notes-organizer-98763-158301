@@ -1,0 +1,9 @@
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorSecondary">#FFC107</color>
+    <color name="colorAccent">#E91E63</color>
+    <color name="colorPrimaryVariant">#303F9F</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#000000</color>
+</resources>
